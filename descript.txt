@@ -1,11 +1,17 @@
 charset,UTF-8
+
+//name of ghost
 type,ghost 
 name,name
+
 sakura.name,name
 kero.name,name2 
+
 homeurl,http://ssp.shillest.net/ukadoc/manual/hogehoge/example/
 
+//creator info
 craftman,name
 craftmanurl,http://ssp.shillest.net/ukadoc/manual/index.html
 
-shiori,satori.dll
+//specify which shiori is used (yaya in this case)
+shiori,yaya.dll
