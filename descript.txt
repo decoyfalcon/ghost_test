@@ -1,0 +1,11 @@
+charset,UTF-8
+type,ghost 
+name,name
+sakura.name,name
+kero.name,name2 
+homeurl,http://ssp.shillest.net/ukadoc/manual/hogehoge/example/
+
+craftman,name
+craftmanurl,http://ssp.shillest.net/ukadoc/manual/index.html
+
+shiori,satori.dll
